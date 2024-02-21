@@ -1,9 +1,11 @@
 Github Finder 구현
 
-###IMG
+###Main Page
 <img width="883" alt="스크린샷 2024-02-21 오후 5 26 53" src="https://github.com/immyeong/js-github-finder/assets/62759873/96ad2524-fd84-40a7-8b37-81869d443ef7">
 
-###Spinner Loading
+###Spinner Loading && Alert
+<img width="875" alt="스크린샷 2024-02-21 오후 5 34 08" src="https://github.com/immyeong/js-github-finder/assets/62759873/17539c8c-6f0d-4d15-9f42-081ad3491f09">
+<img width="869" alt="스크린샷 2024-02-21 오후 5 34 21" src="https://github.com/immyeong/js-github-finder/assets/62759873/6b25dbd9-7346-4cf3-84b3-52078c6cadc5">
 
 ###HTML
     -nav바 생성
